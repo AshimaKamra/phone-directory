@@ -19,6 +19,7 @@ class App extends Component {
       
       <div>
        <Header />
+       <Header heading="Phone Directory" />
        <div className="component-body-container">
          <button className="custom-btm add-btn">Add</button>
 
